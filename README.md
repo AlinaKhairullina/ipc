@@ -5,3 +5,4 @@
    The server generates a number that needs to be guessed in a certain number of steps (for example,
 no more than 10), and analyzes the responses sent to it by the client. The client organizes the interface with
 by the user (entering responses, displaying messages on the screen).
+Interaction between client and server is organized using a message queue.
