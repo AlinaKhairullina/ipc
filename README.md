@@ -1,5 +1,5 @@
 # Inter-process communication (IPC)
- **The repository contains files for various ways of intel-process communication(IPC). **
+**The repository contains files for various ways of inter-process communication(IPC).**
 # The play of bulls and cows (Игра быки и коровы)
  - client.c and server.c allow to play the game of bulls and cows.
    The server generates a number that needs to be guessed in a certain number of steps (for example,
